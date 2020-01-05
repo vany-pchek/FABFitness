@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FABFitness.BL", "FABFitness.BL\FABFitness.BL.csproj", "{9AA5D899-CA2D-42FC-B1CD-CC10FD726111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FABFitness.CMD", "FABFitness.CMD\FABFitness.CMD.csproj", "{3D0AF4DD-E413-4B98-B3BD-530F921233C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA5D899-CA2D-42FC-B1CD-CC10FD726111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA5D899-CA2D-42FC-B1CD-CC10FD726111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA5D899-CA2D-42FC-B1CD-CC10FD726111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA5D899-CA2D-42FC-B1CD-CC10FD726111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0AF4DD-E413-4B98-B3BD-530F921233C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0AF4DD-E413-4B98-B3BD-530F921233C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0AF4DD-E413-4B98-B3BD-530F921233C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0AF4DD-E413-4B98-B3BD-530F921233C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744B6C8A-4F29-4A2B-BA6E-1F3AE439A556}
+	EndGlobalSection
+EndGlobal
